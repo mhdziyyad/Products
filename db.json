@@ -1,16 +1,14 @@
-{
-  "Products": [
-    {
-      "id": 1,
-      "ProductName": "Chocolate"
-    },
-    {
-      "id": 2,
-      "ProductName": "Cadbury"
-    },
-    {
-      "id": 3,
-      "ProductName": "Cake"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "ProductName": "Chocolate"
+  },
+  {
+    "id": 2,
+    "ProductName": "Cadbury"
+  },
+  {
+    "id": 3,
+    "ProductName": "Cake"
+  }
+]
