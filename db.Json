@@ -1,0 +1,19 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "ProductName": "Chocolate"
+    },
+    {
+      "id": 2,
+      "ProductName": "Cadbury"
+    },
+    {
+      "id": 3,
+      "ProductName": "Cake"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
