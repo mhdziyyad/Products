@@ -1,14 +1,17 @@
 [
   {
     "id": 1,
-    "ProductName": "Chocolate"
+    "ProductName": "Chocolate",
+    "Price": 200
   },
   {
     "id": 2,
-    "ProductName": "Cadbury"
+    "ProductName": "Cadbury",
+    "Price": 100
   },
   {
     "id": 3,
-    "ProductName": "Cake"
+    "ProductName": "Cake",
+    "Price": 500
   }
 ]
